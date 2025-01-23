@@ -2,7 +2,7 @@
 
 <img aligh= "center" alt="phyton" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 
-## Tela de cadastro
+## Tela de cadastro  23-01-2025
 
 Cria uma janela simples de login com campos de entrada para "Usuário" e "Senha".
 Permite verificar se o login corresponde às credenciais predefinidas.
